@@ -9,15 +9,15 @@ public class Variable01 {
         //num : 변수명
         //num이라는 이름의 정수를 저장할 수 있는 공간을 선언
         //num이라는 이름의 정수를 저장할 수 있는 변수를 선언
-        //int num;
+        int num;
 
         //num2라는 이름의 정수를 저장할 수 있는 변수 선언
-        //int num2;
+        int num2;
 
         //변수명은 중복 불가
         // int num;
-        //int NUM;
-        //int Num;
+        int NUM;
+        int Num;
         //변수명은 대소문자를 구분
         //변수명은 소문자로 만들어라
         //변수명은 소문자로 만들어라
