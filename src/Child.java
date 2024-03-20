@@ -1,5 +1,6 @@
 public class Child extends Parent {
     int x = 1000;
+
     Child() {
         this(5000);
     }
