@@ -8,6 +8,7 @@ public class Variable01 {
         //int : 정수를 저장할 수 있는 자료형
         //num : 변수명
         //num이라는 이름의 정수를 저장할 수 있는 공간을 선언
+
         //num이라는 이름의 정수를 저장할 수 있는 변수를 선언
         int num;
 
