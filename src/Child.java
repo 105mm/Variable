@@ -7,6 +7,7 @@ public class Child extends Parent {
     Child(int x) {
         this.x = x;
     }
+
     int getX() {
         return x;
     }
